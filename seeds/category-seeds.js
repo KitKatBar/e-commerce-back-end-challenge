@@ -1,5 +1,7 @@
+// Import Category model
 const { Category } = require('../models');
 
+// Initialize sample data to be seeded into our database table
 const categoryData = [
   {
     category_name: 'Shirts',
@@ -18,6 +20,7 @@ const categoryData = [
   },
 ];
 
+// Seed our data in bulk
 const seedCategories = () => Category.bulkCreate(categoryData);
 
 module.exports = seedCategories;
