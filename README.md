@@ -57,7 +57,7 @@ Insomnia Installion Website: https://insomnia.rest/
 
 ## Usage
 
-This project performs CRUD operations that interact with an e-commerce database in PostgreSQL. There are a variety of operations available for querying the categories, products and tags tables. I have provided a walkthrough video demonstrating how to use this program. Click on [this link](https://drive.google.com/file/d/1-fZUvClWdOgIPy5nTWCOsMQ_ev2OUu_X/view) to access the video.
+This project performs CRUD operations that interact with an e-commerce database in PostgreSQL. There are a variety of operations available for querying the categories, products and tags tables. I have provided a walkthrough video demonstrating how to use this program. Click on [this link](https://drive.google.com/file/d/1qEzMJsztl0UzLEQxLNnvcpX70LOm9aCL/view) to access the video.
 
 Additionally, I have provided screenshots of sample responses from Insomnia for each of the routes.
 
