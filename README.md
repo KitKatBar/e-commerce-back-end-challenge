@@ -63,51 +63,69 @@ Additionally, I have provided screenshots of sample responses from Insomnia for 
 
 GET All Categories:
 
-![image showing the layout of the home page](https://github.com/KitKatBar/note-taker-challenge/blob/main/images/home-page.png?raw=true)
+![image showing get all categories route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-all-categories.png?raw=true)
 
 POST New Category & GET Category by ID
 
-img here
+![image showing post category route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/post-category.png?raw=true)
+
+![image showing get category by id route after post in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-category-by-id.png?raw=true)
 
 PUT Category & GET Category by ID
 
-img here
+![image showing put category route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/put-category.png?raw=true)
+
+![image showing get category by id route after put in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-category-by-id-put.png?raw=true)
 
 DELETE Category & GET Category by ID
 
-img here
+![image showing delete category route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/delete-category.png?raw=true)
+
+![image showing get category by id route after delete in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-category-by-id-delete.png?raw=true)
 
 GET All Products:
 
-![image showing the layout of the home page](https://github.com/KitKatBar/note-taker-challenge/blob/main/images/home-page.png?raw=true)
+![image showing get all products route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-all-products.png?raw=true)
 
 POST New Product & GET Product by ID
 
-img here
+![image showing post product in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/post-product.png?raw=true)
+
+![image showing get product by id route after post in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-product-by-id.png?raw=true)
 
 PUT Product & GET Product by ID
 
-img here
+![image showing put product in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/put-product.png?raw=true)
+
+![image showing get product by id route after put in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-product-by-id-put.png?raw=true)
 
 DELETE Product & GET Product by ID
 
-img here
+![image showing delete product route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/delete-product.png?raw=true)
+
+![image showing get product by id route after delete in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-product-by-id-delete.png?raw=true)
 
 GET All Tags:
 
-![image showing the layout of the home page](https://github.com/KitKatBar/note-taker-challenge/blob/main/images/home-page.png?raw=true)
+![image showing get all tags route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-all-tags.png?raw=true)
 
 POST New Tag & GET Tag by ID
 
-img here
+![image showing post tag route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/post-tag.png?raw=true)
+
+![image showing get tag by id route after post in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-tag-by-id.png?raw=true)
 
 PUT Tag & GET Tag by ID
 
-img here
+![image showing put tag route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/put-tag.png?raw=true)
+
+![image showing get tag by id route after put in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-tag-by-id-put.png?raw=true)
 
 DELETE Tag & GET Tag by ID
 
-img here
+![image showing delete tag route in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/delete-tag.png?raw=true)
+
+![image showing get tag by id route after delete in Insomnia](https://github.com/KitKatBar/e-commerce-back-end-challenge/blob/main/images/get-tag-by-id-delete.png?raw=true)
         
 ## Credits
 
